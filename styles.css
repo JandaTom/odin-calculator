@@ -1,0 +1,20 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.calculator {
+    display: flex;
+    flex: 1;
+}
+
+input {
+    caret-color: transparent;
+    width: 20vw;
+    text-align: right;
+}
+
+.button-row {
+    width: 20vw;
+}
